@@ -46,6 +46,9 @@ def main():
             print("Kamu Memilih Gunting")
             print("Komputer Memilih Gunting")
             print("Seri!")
+    elif pilih == 4:
+        print("Terima Kasih")
+        exit()        
     else:
         print("Pilihan Tidak Tersedia")
 
